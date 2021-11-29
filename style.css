@@ -1,0 +1,36 @@
+/*estilo para el documento en general*/
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+/*estilo para el tiyulo del documento*/
+p {
+    margin: 8px;
+    text-align: justify;
+}
+/*estilo para cada columna del articulo*/
+#column1 {
+    margin: 10px;
+    float: left; width: 30%;
+    background: #cfc;
+    text-align: center;
+}
+
+#column2 {
+    margin: 10px;
+    float: left; width: 30%;
+    background: #09f;
+    text-align: center;
+}
+
+#column3 {
+    margin: 10px;
+    float: left; width: 30%;
+    background: rgb(116, 116, 116);
+    text-align: center;
+}
+/*estilo y tamaño para la imagen*/
+#imax {
+    width: 200px;
+    height: 200px;
+}
